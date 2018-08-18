@@ -19,7 +19,7 @@ PG_MODULE_MAGIC;
 
 typedef struct node* Lnode;
 typedef struct list* List;
-
+hhhh
 // Create a new list
 List newList(void);
 // Create a new node
